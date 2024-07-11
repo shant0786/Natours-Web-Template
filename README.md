@@ -1,3 +1,3 @@
-# Natour Project
+# Natour Project Website
 
-this is lerning webpage design by Jonas Schemedtmann for a online course which i took for lerning web devlopment
+This is learning webpage design exclusively Jonas Schemedtmann for a online course "Advanced CSS and Sass Flexbox, Grid, Animations and More!". Which i took for learning responsive web design, Sass, Animation and NPM Packege Management.
